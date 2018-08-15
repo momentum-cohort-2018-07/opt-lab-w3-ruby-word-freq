@@ -32,4 +32,4 @@ The class is located in `word_frequency.rb` in the 'starter_files' folder. To ru
 
 ## Links
 
-- [File Class](http://ruby-doc.org/core-2.5.0/File.html)
+- [File Class](http://ruby-doc.org/core-2.5.1/File.html)
